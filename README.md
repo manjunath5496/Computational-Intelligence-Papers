@@ -71,7 +71,7 @@ Computational Intelligence in Games</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(36).pdf" style="text-decoration:none;">What Is Computational Intelligence and Where Is It Going?</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(37).pdf" style="text-decoration:none;">An Overview of Computational Intelligence</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(38).pdf" style="text-decoration:none;">Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(38).pdf" style="text-decoration:none;">Smart Online Courses Using Computational Intelligence</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(39).pdf" style="text-decoration:none;">A Review on Computational Intelligence Techniques in Cloud and Edge Computing</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(40).pdf" style="text-decoration:none;">Computational Intelligence and Neuroscience in Neurorobotics</a></li>                              
 </ul>
