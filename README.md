@@ -16,7 +16,7 @@ A Modern Approach</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(6).pdf" style="text-decoration:none;">Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(7).pdf" style="text-decoration:none;">A first course in mathematical modeling</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(8).pdf" style="text-decoration:none;"> Embedding Word Similarity with Neural Machine Translation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(8).pdf" style="text-decoration:none;"> What is Computational Intelligence and what could it become?</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(9).pdf" style="text-decoration:none;">The Definitive ANTLR 4 Reference</a></li>
   
    
@@ -39,7 +39,7 @@ Computational Intelligence in Games</a></li>
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(19).pdf" style="text-decoration:none;">Computational Intelligence Based Simulated Annealing Guided Key Generation In Wireless Communication (CISAKG)</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(20).pdf" style="text-decoration:none;"> An Actor-Critic Algorithm for Sequence Prediction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(20).pdf" style="text-decoration:none;"> Computational Intelligence and Knowledge</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(21).pdf" style="text-decoration:none;">Planning Intelligent Responses in a Natural Language System</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(22).pdf" style="text-decoration:none;">The SINIX Consultant – Towards a Theoretical Treatment of Plan Recognition</a></li> 
@@ -68,10 +68,10 @@ Computational Intelligence in Games</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(35).pdf" style="text-decoration:none;">Using Justification Patterns to Advise Novice UNIX Users</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(36).pdf" style="text-decoration:none;">Improved English to Russian Translation by Neural Suffix Prediction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(36).pdf" style="text-decoration:none;">What Is Computational Intelligence and Where Is It Going?</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(37).pdf" style="text-decoration:none;">Asynchronous Bidirectional Decoding for Neural Machine Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(37).pdf" style="text-decoration:none;">An Overview of Computational Intelligence</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(38).pdf" style="text-decoration:none;">Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(39).pdf" style="text-decoration:none;">Zero-Resource Neural Machine Translation with Multi-Agent Communication Game</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(40).pdf" style="text-decoration:none;">Tied Multitask Learning for Neural Speech Translation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(39).pdf" style="text-decoration:none;">A Review on Computational Intelligence Techniques in Cloud and Edge Computing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(40).pdf" style="text-decoration:none;">Computational Intelligence and Neuroscience in Neurorobotics</a></li>                              
 </ul>
