@@ -73,5 +73,17 @@ Computational Intelligence in Games</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(37).pdf" style="text-decoration:none;">An Overview of Computational Intelligence</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(38).pdf" style="text-decoration:none;">Smart Online Courses Using Computational Intelligence</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(39).pdf" style="text-decoration:none;">A Review on Computational Intelligence Techniques in Cloud and Edge Computing</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(40).pdf" style="text-decoration:none;">Computational Intelligence and Neuroscience in Neurorobotics</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(40).pdf" style="text-decoration:none;">Computational Intelligence and Neuroscience in Neurorobotics</a></li>  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(41).pdf" style="text-decoration:none;">Computational Intelligence in Photovoltaic Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(42).pdf" style="text-decoration:none;">Computational Intelligence for Shoeprint Recognition</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(43).pdf" style="text-decoration:none;">Computational Intelligence</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(44).pdf" style="text-decoration:none;">Survey on computational intelligence based image encryption techniques</a></li>  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 </ul>
