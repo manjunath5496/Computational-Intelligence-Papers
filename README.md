@@ -2,10 +2,10 @@
 
 <ul>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(1).pdf" style="text-decoration:none;">Deep Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(1).pdf" style="text-decoration:none;">An Aquaponics System Design for Computational Intelligence Teaching</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(2).pdf" style="text-decoration:none;">Paradigms of AI Programming: Case Studies in Common Lisp</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(2).pdf" style="text-decoration:none;">Optimization of Computational Intelligence Models for Landslide Susceptibility Evaluation</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Intelligence-Papers/blob/master/comp(3).pdf" style="text-decoration:none;">Symbolic Mathematics
 with Canonical Forms</a></li>
